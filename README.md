@@ -14,6 +14,7 @@ I build innovative software and web solutions while exploring research-driven ap
   <a href="https://linkedin.com/in/iamrahil"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:iamksrahil03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iamksrahil03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://facebook.com/rahil03"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://wa.me/8801639149794"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
@@ -102,5 +103,9 @@ I build innovative software and web solutions while exploring research-driven ap
 
 ## Let's connect
 
-I'm looking for **full-time and remote opportunities** and happy to talk about research collaboration.
-The fastest way to reach me is by email: **[iamksrahil03@gmail.com](mailto:iamksrahil03@gmail.com)**, or on [LinkedIn](https://linkedin.com/in/iamrahil).
+I'm looking for **full-time and remote opportunities** and happy to talk about research collaboration. Reach me any of these ways:
+
+- 📧 **Email:** [iamksrahil03@gmail.com](mailto:iamksrahil03@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/iamrahil](https://linkedin.com/in/iamrahil)
+- 📘 **Facebook:** [facebook.com/rahil03](https://facebook.com/rahil03)
+- 💬 **WhatsApp:** [Chat with me](https://wa.me/8801639149794)
