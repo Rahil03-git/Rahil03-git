@@ -27,7 +27,7 @@ I build innovative software and web solutions while exploring research-driven ap
 - 💡 **Interests:** Network & Cybersecurity, Data Science, AI, Machine Learning, Computer Vision.
 - 🏆 **Achievements:** Champions Trophy at CSE Project Show 262 (FYDP 3, Team Leader of Catalyst 505) and Champions at CSE Poster Show 223.
 - 🤝 **Activities:** UIU Model United Nations Club, Robotics Club and Computer Club, plus 5+ years of private tutoring.
-- 💬 **Ask me about:** Java, HTML, CSS, PHP, Python, ML, AI, full-stack development and research-oriented.
+- 💬 **Ask me about:** Java, HTML, CSS, PHP, Python, ML, AI, full-stack development and research.
 - 📍 **Based in:** Dhaka, Bangladesh · **Languages:** Bengali (native), English (fluent).
 
 ---
