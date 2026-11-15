@@ -8,9 +8,7 @@ I build innovative software and web solutions while exploring research-driven ap
 </p>
 
 <p align="center">
-  <!-- After you deploy your portfolio, delete the two comment markers around the next line and put your real link in it.
-  <a href="https://YOUR-PORTFOLIO-LINK"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1d6cfe?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  -->
+  <a href="https://kazishiblizamanrahil.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1d6cfe?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://linkedin.com/in/iamrahil"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:iamksrahil03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iamksrahil03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://facebook.com/rahil03"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
